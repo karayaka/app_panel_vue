@@ -13,6 +13,7 @@ Vue.use(Vuex)
 export default new Vuex.Store({
   state: {
     adStatuses:[
+      
       {value:0,text:"Reklam Yok"},
       {value:1,text:"Geçiş Reklamı"},
       {value:2,text:"Ödüllü Reklam"},
