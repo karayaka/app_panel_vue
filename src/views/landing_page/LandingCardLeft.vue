@@ -47,7 +47,7 @@ export default {
     props:["card"],
         data(){
             return{
-                show:false,
+                show:false,//test amaçlı yazıldı
                 
             }
         },
